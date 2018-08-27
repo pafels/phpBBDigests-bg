@@ -1,4 +1,4 @@
-# phpBBDigests-cs
+# phpBBDigests-bg
 
 Bulgarian translation for phpBBDigests
 
