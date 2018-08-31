@@ -1,6 +1,6 @@
 # phpBBDigests-bg
 
-Bulgarian translation for phpBBDigests
+Partial Bulgarian translation for phpBBDigests. Currently only mails and UCP are translated.
 
 
 Digests is an extension for phpBB 3.2. The extension sends daily, weekly or monthly digests to all subscribed users 
